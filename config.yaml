@@ -2,5 +2,5 @@ build:
   system_packages:
     - "libssl-dev"
   python_packages:
-    - "torch"
+    - "torch==2.0.1"
     - "transformers>=4.34.0"
